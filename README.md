@@ -4,6 +4,9 @@ level of cross-lingual alignment in the models using principal component project
 
 Thesis available for download at: [Link coming soon]()
 
+## Additional resources
+Link to the videos for the changes in the projections during the full training runs: https://www.youtube.com/playlist?list=PLnjJuKzLUmfRGiVAbCsScvZau0KlcvZ-e
+
 ## Notes
 The source code for training the language models is based on [the source code for training the OLMo models](https://github.com/allenai/OLMo) by AI2 and modified for the training setup and infrastructure used in the thesis. The models are trained using the LUMI HPC cluster, powered by AMD Instinct™ MI250X accelerators.
 
