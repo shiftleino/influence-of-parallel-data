@@ -16,9 +16,11 @@ The cross-lingual control vector code in the evaluation experiments is based on 
 The thesis was supported by the Technology Industries of Finland Centennial Foundation.
 
 ## Citation
+```cite
 @mastersthesis{Leino2025,
   author    = {Julius Leino},
   title     = {Influence of parallel data on multilingual representation space of language models},
   school    = {University of Helsinki},
   year      = {2025}
 }
+```
