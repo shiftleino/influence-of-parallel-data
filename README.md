@@ -2,7 +2,7 @@
 This repository contains the source code for training the language models and running the evaluation experiments in the thesis "Influence of parallel data on multilingual representation space of language models". In the thesis, we train four transformer language models of 1.4 billion parameters on multilingual corpora with varying proportions of parallel data: 0%, 1%, 2%, and 5%. We then evaluate the
 level of cross-lingual alignment in the models using principal component projections, projection weighted canonical correlation analysis (PWCCA), language-specific neuron analysis, and cross-lingual control vectors.
 
-Thesis available for download at: [Link coming soon]()
+Thesis available for download at: [Link coming soon](https://helda.helsinki.fi/items/2473c30f-c9f6-4ed7-8eca-f2324db6533a).
 
 ## Additional resources
 Link to the videos for the changes in the projections during the full training runs: https://www.youtube.com/playlist?list=PLnjJuKzLUmfRGiVAbCsScvZau0KlcvZ-e
@@ -16,4 +16,9 @@ The cross-lingual control vector code in the evaluation experiments is based on 
 The thesis was supported by the Technology Industries of Finland Centennial Foundation.
 
 ## Citation
-Coming soon...
+@mastersthesis{Leino2025,
+  author    = {Julius Leino},
+  title     = {Influence of parallel data on multilingual representation space of language models},
+  school    = {University of Helsinki},
+  year      = {2025}
+}
